@@ -1,0 +1,18 @@
+**Log on to harivandana college project about exam form system***
+
+**Database Name: hvc**
+
+**Developed by Ashish Kamaliya**
+
+**Recommended PHP Version 5.6, 7.4**
+
+
+**Admin Login Details**
+
+Username: Hod@Hvc
+Password: Hod@Hvc
+
+**Student Login Details**
+
+Username : ashish@123
+Password : ashish@123
