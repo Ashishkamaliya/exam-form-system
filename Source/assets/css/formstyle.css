@@ -1,0 +1,57 @@
+body {
+  background: #EAE9ES;
+}
+
+.login-form {
+  margin-top: 25%;
+  background: #fff;
+  padding: 30px;
+  box-shadow: 0px 1px 26px 2px rgba(0,0,0,0.28);
+  border-radius: 5px;
+}
+
+.login-form .logo label {
+    font-size: 23px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #d1b77a;
+}
+.form_btn{
+  background: #d1b77a;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0,.2);
+  border: none;
+  color: #fff;
+  width: 100%;
+  border-radius: 25px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.label_text{
+  font-size: 12px;
+}
+.form-control{
+  border-radius: 5px;
+}
+.register-form{
+  background: #fff;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 5px;
+  box-shadow: 0px 1px 36px 5px rgba(0, 0, 0, 0.28);
+}
+.form-group input:focus{
+    outline: none;
+    border: 2px solid rgb(209, 186, 122);
+    box-shadow: none;
+    color: rgb(209, 186, 122);
+}
+.sms-check-input {
+    position: absolute;
+    margin-top: 0.6rem;
+    margin-left: 0.75rem;
+}
+.sms-check-label{
+  margin-top: 0.3rem;
+  margin-left: 2rem;
+}
