@@ -12,7 +12,7 @@ The "Exam Form System" project is a web based application developed using HTML, 
 ![Home](https://user-images.githubusercontent.com/118722790/225694661-4a8b09c8-5b67-481e-b4ee-2e08a172c440.png)
 
 - Process Page
-
+![Process](https://user-images.githubusercontent.com/118722790/225694959-d7e54258-136e-4b89-b985-e6bede84f78b.png)
 
 - About Page
 
