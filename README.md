@@ -32,7 +32,7 @@ The "Exam Form System" project is a web based application developed using HTML, 
 ![Add Subjects](https://user-images.githubusercontent.com/118722790/225696537-fcafdb6d-91f0-4578-bb31-f9e62ff77c0a.png)
 
 - View Subjects
-
+![View Subjects](https://user-images.githubusercontent.com/118722790/225697044-0452e0c8-b948-4d0d-b6da-1bb43e332050.png)
 
 - Message Page
 
